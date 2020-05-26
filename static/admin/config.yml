@@ -22,7 +22,7 @@ collections:
     label: "Settings"
     files:
       - label: "Contact Info"
-        name: contact_info
+        contactName: contact_info
         file: site/settings/contact_info.json
         fields:
           - { label: "Phone", name: "phone", widget: "string" }
